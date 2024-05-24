@@ -22,6 +22,6 @@ THEN they fall in sequential order <br>
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ---
-![Website Image](image.png)
+![Website Image](./assets/screenshot.png)
 ---
 [Website Link](https://authorixed.github.io/Challenge-1/)
