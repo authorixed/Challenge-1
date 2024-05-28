@@ -4,8 +4,8 @@ This is challenge 1 for GWU Coding bootcamp! We are working on cleaning up code 
 
 # User Story
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
+AS A marketing agency <br>
+I WANT a codebase that follows accessibility standards <br>
 SO THAT our own site is optimized for search engines
 
 # Acceptance Criteria
